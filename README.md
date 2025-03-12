@@ -1,6 +1,3 @@
-Here’s a README file to help explain how to use the script:
-
----
 
 # DNS Record Importer for GCP to Terraform
 
